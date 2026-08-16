@@ -54,6 +54,6 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
     - Build presentation deck using Gamma AI
 <h2>Dashboard</h2>
-<p align="center"><img src="Dashboard.png" width="300"></p>
+<p align="center"><img src="Dashboard.png" ></p>
 
 ## 💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo.
